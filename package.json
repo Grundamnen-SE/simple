@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Grundamnen-SE/simple/issues"
   },
-  "homepage": "https://github.com/Grundamnen-SE/simple#readme"
+  "homepage": "https://github.com/Grundamnen-SE/simple#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "serve-favicon": "^2.3.0"
+  }
 }
