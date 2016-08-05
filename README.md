@@ -1,4 +1,4 @@
-# simple
+# simple [![Build Status](https://travis-ci.org/Grundamnen-SE/simple.svg?branch=master)](https://travis-ci.org/Grundamnen-SE/simple)
 Simple modulen för grundämnen.se. Denna modul är, så att säga, en vanlig variant av grundämnen.se. Med denna variant kan du se alla ämnen, och lära dig om hur det fungerar. Denna modul ska vara väldigt enkel och ska inte kräva mer än en modern webbläsare för att använda.
 
 ## Användning
